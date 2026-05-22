@@ -1,4 +1,4 @@
-# 📊 Repositorio de Bases de Datos
+# 📊 Repositorio de Bases de Datos - Fork de David
 
 Este repositorio contiene scripts SQL para la creación y manejo de tres bases de datos diferentes: una de **Ventas**, otra de un **Gimnasio** y otra de **Cocinas**. Cada carpeta incluye información más detallada y específica sobre la estructura y el uso de cada base de datos.
 

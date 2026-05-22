@@ -16,8 +16,8 @@ La base de datos `ventas` sirve para gestionar clientes, comerciales y registros
 
 ### Relaciones
 
--La tabla `auditoria` utiliza el campo `id_comercial` para registrar cambios realizados sobre comerciales.
--Sin embargo, la DB no implementa claves foráneas explícitas, por lo que MySQL Workbench no es capaz de generar un diagrama con relaciones
+- La tabla `auditoria` utiliza el campo `id_comercial` para registrar cambios realizados sobre comerciales.
+- Sin embargo, la DB no implementa claves foráneas explícitas, por lo que MySQL Workbench no es capaz de generar un diagrama con relaciones
 mediante ingeniería inversa.
 
 ---
